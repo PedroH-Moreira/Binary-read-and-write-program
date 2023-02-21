@@ -1,5 +1,5 @@
 # Binary-read-and-write-program
-University work 
+University work (I'm sending it in parts)
 
 ## Base struct
 The program offers some functions to data base, at this moment it has a struct to divide in six tips of data:
